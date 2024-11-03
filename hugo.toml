@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "danielscrazywebsite.pages.dev"
 title        = "DaniBell"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
