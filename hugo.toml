@@ -1,4 +1,4 @@
-baseurl      = "danielscrazywebsite.pages.dev"
+baseurl      = "https://danielscrazywebsite.pages.dev"
 title        = "DaniBell"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
