@@ -5,7 +5,7 @@ title = 'Projects'
 
 ## Man in space
 
-{{< image src="/images/maninspace.png" alt="Man in space banner" >}}
+{{<img src="/images/maninspace.png" alt="Man in space gameplay" caption="Man in space gameplay">}}
 
 I released a game on Gamejolt with [Alexandrum](https://sites.google.com/view/alexandrum) a while ago: [_Man in space_](https://sites.google.com/view/man-in-space).
 Unfortunately, I never got around to releasing it because I didn't know that 
