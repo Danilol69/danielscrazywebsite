@@ -16,8 +16,8 @@ much about game development at the time and immediately took on a project that w
 ## Map Reader
 
 {{< image-row >}}
-    {{< image src="/images/GameIdeaTemplate.jpg" alt="First illustration of a map for the game" style=" width: 42%;" >}}
-    {{< image src="/images/GameIdeaTemplate2.jpg" alt="Second illustration of a map for the game" style=" width: 50%;" >}}
+    {{<img src="/images/GameIdeaTemplate.jpg" alt="First illustration of a map for the game">}}
+    {{<img src="/images/GameIdeaTemplate2.jpg" alt="Second illustration of a map for the game" >}}
 {{< /image-row >}}
 
 *Map Reader* is a game in Unity that I'm working on with a friend.
